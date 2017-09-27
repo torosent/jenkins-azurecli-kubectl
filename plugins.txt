@@ -10,8 +10,6 @@ cloudbees-folder:latest
 credentials:latest
 credentials-binding:latest
 display-url-api:latest
-docker-commons:latest
-docker-workflow:latest
 durable-task:latest
 email-ext:latest
 external-monitor-job:latest
@@ -29,9 +27,6 @@ github-oauth:latest
 github-organization-folder:latest
 github-pullrequest:latest
 github-pr-coverage-status:latest
-gitlab-merge-request-jenkins:latest
-gitlab-oauth:latest
-gitlab-plugin:latest
 google-login:latest
 gradle:latest
 handlebars:latest
@@ -40,8 +35,6 @@ jackson2-api:latest
 javadoc:latest
 jquery-detached:latest
 junit:latest
-kerberos-sso:latest
-ldap:latest
 maven-plugin:latest
 mailer:latest
 mapdb-api:latest
@@ -51,10 +44,6 @@ mercurial:latest
 metrics:latest
 momentjs:latest
 oic-auth:latest
-oauth-credentials:latest
-openid:latest
-openid4java:latest
-openshift-login:latest
 pam-auth:latest
 pipeline-build-step:latest
 pipeline-graph-analysis:latest
